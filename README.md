@@ -1,2 +1,2 @@
 # dincerdegre.github.io
-GitHub Pages Çalışması
+GitHub D Software Pages Çalışması
