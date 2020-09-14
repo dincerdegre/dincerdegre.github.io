@@ -41,6 +41,7 @@ h1 {
   margin: auto;
   padding: 1rem 0;
 }
+.container img {display:block;margin:0 auto;text-align:center;}
 .card {
   display: flex;
   align-items: center;
